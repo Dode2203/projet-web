@@ -1,0 +1,52 @@
+dotnet new class -n ModelName -o Models
+
+
+Inscrition 
+	Affiche(Email,nom,prenom,mdp)
+	base
+		Utilisateur(id,Email,nom,prenom,mdp)
+		inscription(id,Email,nom,prenom,mdp)
+		Pin(id_pin,id_inscription,code)
+	Model
+		Inscription(id,Email,nom,prenom,mdp)
+			fonction
+				EnvoyerEmail(string email,int code) pour valider l'inscription
+				Save(string email, string nom, string prenom, string mdp)
+				s'inscrire(Email,nom,prenom,mdp) retourne une  pin et le lien vers compte mail
+				validation(int id , int code)
+				
+        PinService  
+            fonction    
+                savePin(int id,int code) 
+                supprimerPinParId(id)   
+                GetCodeByIdInscription(int idInscription)  
+                Verifier(int id,int code)
+        Utilisateur
+            fonction 
+                Save(string email, string nom, string prenom, string mdp)
+                
+    Controller
+        SInscrire([FromBody] Inscription model)// POST http://localhost:5032/api/inscription/sinscrire
+        validation([FromQuery] int id_inscription, [FromQuery] int code)//GET localhost:5032/api/Inscription/validation?id_inscription=id&code=(envoyer dans l'email)
+
+		
+Login
+	Affiche(Email,mdp)
+    base
+        Utilisateur(id,Email,nom,prenom,mdp)
+    Model
+        Utilisateur
+            fonction
+                login(string email,string mdp)
+                authentification(Email,mdp) retourne une  pin et le lien vers compte mail
+                confirmation_vers_email(id_utilisateur,pin)
+                    login()retourne token	
+            
+
+
+
+
+
+
+
+

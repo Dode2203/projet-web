@@ -1,0 +1,262 @@
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\appsettings.Development.json
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\appsettings.json
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Fournisseur.staticwebassets.endpoints.json
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Fournisseur.exe
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Fournisseur.deps.json
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Fournisseur.runtimeconfig.json
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Fournisseur.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Fournisseur.pdb
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Npgsql.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\Fournisseur.csproj.AssemblyReference.cache
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\Fournisseur.GeneratedMSBuildEditorConfig.editorconfig
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\Fournisseur.AssemblyInfoInputs.cache
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\Fournisseur.AssemblyInfo.cs
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\Fournisseur.csproj.CoreCompileInputs.cache
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\Fournisseur.MvcApplicationPartsAssemblyInfo.cs
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\Fournisseur.MvcApplicationPartsAssemblyInfo.cache
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\scopedcss\bundle\Fournisseur.styles.css
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\staticwebassets.build.json
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\staticwebassets.development.json
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\staticwebassets\msbuild.Fournisseur.Microsoft.AspNetCore.StaticWebAssets.props
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\staticwebassets\msbuild.Fournisseur.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\staticwebassets\msbuild.build.Fournisseur.props
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Fournisseur.props
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Fournisseur.props
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\staticwebassets.pack.json
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\Fourniss.4D9BDCF8.Up2Date
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\Fournisseur.dll
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\refint\Fournisseur.dll
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\Fournisseur.pdb
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\Fournisseur.genruntimeconfig.cache
+D:\s5\web\exam\Fournisseur\obj\Debug\net9.0\ref\Fournisseur.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Humanizer.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\System.CodeDom.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\s5\web\exam\Fournisseur\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\appsettings.Development.json
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\appsettings.json
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Fournisseur.staticwebassets.endpoints.json
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Fournisseur.exe
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Fournisseur.deps.json
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Fournisseur.runtimeconfig.json
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Fournisseur.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Fournisseur.pdb
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Humanizer.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Newtonsoft.Json.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Npgsql.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\System.CodeDom.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\Fournisseur.csproj.AssemblyReference.cache
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\Fournisseur.GeneratedMSBuildEditorConfig.editorconfig
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\Fournisseur.AssemblyInfoInputs.cache
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\Fournisseur.AssemblyInfo.cs
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\Fournisseur.csproj.CoreCompileInputs.cache
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\Fournisseur.MvcApplicationPartsAssemblyInfo.cs
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\Fournisseur.MvcApplicationPartsAssemblyInfo.cache
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\scopedcss\bundle\Fournisseur.styles.css
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\staticwebassets.build.json
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\staticwebassets.development.json
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\staticwebassets\msbuild.Fournisseur.Microsoft.AspNetCore.StaticWebAssets.props
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\staticwebassets\msbuild.Fournisseur.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\staticwebassets\msbuild.build.Fournisseur.props
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Fournisseur.props
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Fournisseur.props
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\staticwebassets.pack.json
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\Fourniss.4D9BDCF8.Up2Date
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\Fournisseur.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\refint\Fournisseur.dll
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\Fournisseur.pdb
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\Fournisseur.genruntimeconfig.cache
+D:\logiciel\prog\s5\web avance\Fournisseur\obj\Debug\net9.0\ref\Fournisseur.dll
