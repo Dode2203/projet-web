@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Lcx8+t/xbsg=",
+  "dgSpecHash": "y6ggTBvxnOU=",
   "success": true,
-  "projectFilePath": "D:\\logiciel\\prog\\s5\\web avance\\Fournisseur\\Fournisseur.csproj",
+  "projectFilePath": "C:\\Users\\NJARA\\Documents\\GitHub\\projet-web\\dotnet\\Fournisseur.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NJARA\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\NJARA\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\9.0.0\\microsoft.aspnetcore.authentication.jwtbearer.9.0.0.nupkg.sha512",
