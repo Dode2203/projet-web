@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\logiciel\\prog\\s5\\web avance\\Fournisseur\\Fournisseur.csproj": {}
+    "C:\\Users\\NJARA\\Documents\\GitHub\\projet-web\\dotnet\\Fournisseur.csproj": {}
   },
   "projects": {
-    "D:\\logiciel\\prog\\s5\\web avance\\Fournisseur\\Fournisseur.csproj": {
+    "C:\\Users\\NJARA\\Documents\\GitHub\\projet-web\\dotnet\\Fournisseur.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\logiciel\\prog\\s5\\web avance\\Fournisseur\\Fournisseur.csproj",
+        "projectUniqueName": "C:\\Users\\NJARA\\Documents\\GitHub\\projet-web\\dotnet\\Fournisseur.csproj",
         "projectName": "Fournisseur",
-        "projectPath": "D:\\logiciel\\prog\\s5\\web avance\\Fournisseur\\Fournisseur.csproj",
+        "projectPath": "C:\\Users\\NJARA\\Documents\\GitHub\\projet-web\\dotnet\\Fournisseur.csproj",
         "packagesPath": "C:\\Users\\NJARA\\.nuget\\packages\\",
-        "outputPath": "D:\\logiciel\\prog\\s5\\web avance\\Fournisseur\\obj\\",
+        "outputPath": "C:\\Users\\NJARA\\Documents\\GitHub\\projet-web\\dotnet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NJARA\\AppData\\Roaming\\NuGet\\NuGet.Config",
