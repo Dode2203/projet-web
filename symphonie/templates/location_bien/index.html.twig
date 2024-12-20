@@ -1,0 +1,37 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}LocationBien index{% endblock %}
+
+{% block body %}
+    <h1>LocationBien index</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>IdLocationBien</th>
+                <th>DateDebut</th>
+                <th>Dure</th>
+                <th>actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for location_bien in location_biens %}
+            <tr>
+                <td>{{ location_bien.idLocationBien }}</td>
+                <td>{{ location_bien.dateDebut ? location_bien.dateDebut|date('Y-m-d') : '' }}</td>
+                <td>{{ location_bien.dure }}</td>
+                <td>
+                    <a href="{{ path('app_location_bien_show', {'idLocationBien': location_bien.idLocationBien}) }}">show</a>
+                    <a href="{{ path('app_location_bien_edit', {'idLocationBien': location_bien.idLocationBien}) }}">edit</a>
+                </td>
+            </tr>
+        {% else %}
+            <tr>
+                <td colspan="4">no records found</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_location_bien_new') }}">Create new</a>
+{% endblock %}
