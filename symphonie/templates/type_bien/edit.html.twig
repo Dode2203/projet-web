@@ -1,0 +1,13 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Edit TypeBien{% endblock %}
+
+{% block body %}
+    <h1>Edit TypeBien</h1>
+
+    {{ include('type_bien/_form.html.twig', {'button_label': 'Update'}) }}
+
+    <a href="{{ path('app_type_bien_index') }}">back to list</a>
+
+    {{ include('type_bien/_delete_form.html.twig') }}
+{% endblock %}

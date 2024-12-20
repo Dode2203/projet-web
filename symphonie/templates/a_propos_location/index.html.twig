@@ -1,0 +1,39 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}AProposLocation index{% endblock %}
+
+{% block body %}
+    <h1>AProposLocation index</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Mois</th>
+                <th>Annee</th>
+                <th>Nb</th>
+                <th>actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for a_propos_location in a_propos_locations %}
+            <tr>
+                <td>{{ a_propos_location.id }}</td>
+                <td>{{ a_propos_location.mois }}</td>
+                <td>{{ a_propos_location.annee }}</td>
+                <td>{{ a_propos_location.nb }}</td>
+                <td>
+                    <a href="{{ path('app_a_propos_location_show', {'id': a_propos_location.id}) }}">show</a>
+                    <a href="{{ path('app_a_propos_location_edit', {'id': a_propos_location.id}) }}">edit</a>
+                </td>
+            </tr>
+        {% else %}
+            <tr>
+                <td colspan="5">no records found</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_a_propos_location_new') }}">Create new</a>
+{% endblock %}

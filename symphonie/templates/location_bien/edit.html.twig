@@ -1,0 +1,13 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}Edit LocationBien{% endblock %}
+
+{% block body %}
+    <h1>Edit LocationBien</h1>
+
+    {{ include('location_bien/_form.html.twig', {'button_label': 'Update'}) }}
+
+    <a href="{{ path('app_location_bien_index') }}">back to list</a>
+
+    {{ include('location_bien/_delete_form.html.twig') }}
+{% endblock %}

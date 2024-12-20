@@ -1,0 +1,30 @@
+{% extends 'base.html.twig' %}
+
+{% block title %}LocationBien{% endblock %}
+
+{% block body %}
+    <h1>LocationBien</h1>
+
+    <table class="table">
+        <tbody>
+            <tr>
+                <th>IdLocationBien</th>
+                <td>{{ location_bien.idLocationBien }}</td>
+            </tr>
+            <tr>
+                <th>DateDebut</th>
+                <td>{{ location_bien.dateDebut ? location_bien.dateDebut|date('Y-m-d') : '' }}</td>
+            </tr>
+            <tr>
+                <th>Dure</th>
+                <td>{{ location_bien.dure }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <a href="{{ path('app_location_bien_index') }}">back to list</a>
+
+    <a href="{{ path('app_location_bien_edit', {'idLocationBien': location_bien.idLocationBien}) }}">edit</a>
+
+    {{ include('location_bien/_delete_form.html.twig') }}
+{% endblock %}
